@@ -43,7 +43,7 @@ The fourth passport is missing two fields, cid and byr. Missing cid is fine, but
 
 According to the above rules, your improved system would report 2 valid passports.
 
-Count the number of valid passports - those that have all required fields. Treat cid as optional. **In your batch file, how many passports are valid?**
+**Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?**
 
 ### Part Two
 
@@ -64,4 +64,4 @@ cid (Country ID) - ignored, missing or not.
 ```
 Your job is to count the passports where all required fields are both present and valid according to the above rules. Here are some example values:
 
-Count the number of valid passports - those that have all required fields and valid values. Continue to treat cid as optional. **In your batch file, how many passports are valid?**
+**Count the number of valid passports - those that have all required fields and valid values. Continue to treat cid as optional. In your batch file, how many passports are valid?**
