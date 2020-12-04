@@ -56,7 +56,3 @@ class PassportChecker:
         tests = [self.byr,self.iyr, self.eyr, self.hgt, self.hcl, self.ecl, self.pid]
         result = [f() for f in tests]
         return result
-
-    def ulostus(self):
-        for i in self.passport:
-            print(i)
